@@ -40,10 +40,43 @@ The dataset consists of raw transactional FMCG sales records covering:
 
 Total Sales, Gross Margin %, Stockout Rate %, and Units Sold — driven by DAX measures referencing the Data Model and displayed with custom number formatting.
 
+<img width="1117" height="145" alt="KPIs" src="https://github.com/user-attachments/assets/320ad2d2-d13f-47ec-b0d5-8089e84609b4" />
+
+
+
+
 **Charts**
 
 Revenue & Profitability Driver — Combo chart (clustered column + line) showing Total Net Sales vs. Gross Margin % by category
+
+<img width="547" height="276" alt="Revenue and Profitability Driver" src="https://github.com/user-attachments/assets/b429a72d-9cd8-433e-bf27-15ebd201a873" />
+
+
 Promotional Responsiveness Ranking — Horizontal bar chart ranking categories by Promo Uplift %
+
+<img width="532" height="267" alt="Promo Responsiveness Ranking" src="https://github.com/user-attachments/assets/5c4118bf-d39f-4053-9213-b37dd34bbc81" />
+
+
 Country Net Profit — Horizontal bar chart of net profit by country
+
+<img width="535" height="267" alt="Country Net Profit" src="https://github.com/user-attachments/assets/f796c5b7-0663-476e-a7fb-dde77b88774e" />
+
+
 Monthly Sales Trend — Line chart of net sales across the 12-month calendar
+
+<img width="536" height="272" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/41030572-77f3-442b-9e80-16ae688ca949" />
+
+
 Channel Distribution of Units Sold — Donut chart showing the share of units sold across Supermarket, Hypermarket, E-commerce, and Convenience channels
+
+<img width="371" height="490" alt="Channel DIstribution" src="https://github.com/user-attachments/assets/fc5fb70b-b438-4f05-8cc6-a127c06e99e6" />
+
+# Conclusion
+This project demonstrates how an Excel-based commercial and supply chain analytics model can turn raw transactional data into decision-ready insights. Key takeaways from the analysis include:
+
+* Restructure high-uplift promotions: Home Care (131.33% uplift) and Beverages (104.88% uplift) drive volume but erode margin the most (-14.57% and -14.29% spread). Shifting from deep discounting to bundles or volume-tiering can protect revenue without sacrificing margin.
+* Buffer safety stock for volatile demand: All five categories show high demand volatility (CV > 0.70). A baseline safety stock of ~189 units per SKU is recommended to reduce the 3.01% stockout rate (~33,114 stockout days).
+* Scale high-margin anchor categories: Dairy delivers the strongest gross margin (39.50%) despite lower promo sensitivity, suggesting an opportunity to reallocate spend from lower-margin categories like Snacks.
+* Target regional growth markets: The Netherlands shows the strongest promotional response (114.60% uplift) despite the smallest sales footprint (€12.52M), indicating unmet demand worth capturing with targeted inventory allocation.
+
+Overall, the model shows that promotional strategy and inventory planning cannot be optimized in isolation, margin protection and stockout reduction both depend on category-level demand behavior, and this dashboard provides a repeatable framework to monitor and act on that behavior going forward.
