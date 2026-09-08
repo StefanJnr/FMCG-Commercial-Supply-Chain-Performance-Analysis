@@ -10,3 +10,6 @@ The goal of this project was to move beyond simple sales reporting and build a d
 * How much do promotions actually lift sales volume, and at what cost to margin?
 * Which categories carry the highest inventory/demand volatility, and what safety stock is needed to reduce stockouts?
 * Where should promotional and inventory investment be reallocated to protect profitability?
+
+# Dashboard File
+[Analysis]
