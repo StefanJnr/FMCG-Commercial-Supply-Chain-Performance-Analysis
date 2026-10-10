@@ -779,7 +779,7 @@ The Excel model could be extended into Power BI for:
 
 **GitHub:** https://github.com/StefanJnr
 
-**Email:** stefanfrimpongjnr
+**Email:** stefanfrimpongjnr@gmail.com
 
 
 ---
