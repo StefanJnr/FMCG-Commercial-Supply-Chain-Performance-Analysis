@@ -90,9 +90,9 @@ The project answers the following business questions:
 
 | Metric | Value |
 |---|---:|
-| Total Net Sales | **€472,946,452.83** |
-| Total Gross Revenue | **€484,748,674.02** |
-| Total Net Profit | **€182,208,955.50** |
+| Total Net Sales | **$472,946,452.83** |
+| Total Gross Revenue | **$484,748,674.02** |
+| Total Net Profit | **$182,208,955.50** |
 | Total Units Sold | **65,115,982** |
 | Total Stockout Days | **33,114** |
 | Overall Gross Margin | **38.53%** |
@@ -398,7 +398,7 @@ The resulting portfolio-level recommendation was approximately:
 
 ## 14. Category Performance
 
-| Category | Net Sales (€) | Gross Margin % | Promo Uplift % | Margin Spread | Stockout Rate % | Demand CV | XYZ |
+| Category | Net Sales ($) | Gross Margin % | Promo Uplift % | Margin Spread | Stockout Rate % | Demand CV | XYZ |
 |---|---:|---:|---:|---:|---:|---:|---|
 | Snacks | $130,143,246.54 | 38.01% | 67.03% | -14.33% | 3.04% | 0.7176 | Z |
 | Beverages | $104,103,731.68 | 38.17% | 104.88% | -14.29% | 3.03% | 0.7905 | Z |
@@ -411,7 +411,7 @@ The resulting portfolio-level recommendation was approximately:
 
 ## 15. Regional Performance
 
-| Country | Net Sales (€) | Gross Margin % | Promo Uplift % | Stockout Rate % |
+| Country | Net Sales ($) | Gross Margin % | Promo Uplift % | Stockout Rate % |
 |---|---:|---:|---:|---:|
 | Italy | $137,193,076.12 | 38.53% | 88.33% | 3.00% |
 | Spain | $106,704,767.04 | 38.60% | 90.72% | 2.99% |
