@@ -773,7 +773,7 @@ The Excel model could be extended into Power BI for:
 
 **Author:** Stefan Frimpong
 
-**Role:** Emerging Data Scientist, Data Analyst & Business Analyst
+**Role:** Data Scientist, Data Analyst & Business Analyst
 
 **LinkedIn:** www.linkedin.com/in/stefan-frimpong-370a9b2b1
 
